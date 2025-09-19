@@ -1,4 +1,5 @@
 # 🩺 Breast Cancer Classification with Machine Learning
+![Heart Disease Prediction](https://github.com/ZahraSahranavard/Breast-Cancer-Classification-ML/blob/main/Image/Breast%20Cancer%20Classification.png)
 
 ## 🔹 Overview
 This project demonstrates the classification of breast cancer using multiple **machine learning algorithms**. The main goal is to predict whether a tumor is **malignant** or **benign** based on features extracted from the Breast Cancer Wisconsin (Diagnostic) Dataset. The project also compares the performance of different models to identify the most effective approach.
@@ -91,3 +92,4 @@ jupyter notebook breast_cancer.ipynb
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
